@@ -1,0 +1,22 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "login-mfe",
+            "customElement": "login-mfe",
+            "stack": "react",
+            "type": "widget",
+            "group": "free",
+            "publicFolder": "public",
+            "titles": {
+                "en": "login-mfe",
+                "it": "login-mfe"
+            }
+        }
+    ],
+    "svc": [],
+    "name": "login-credenziali",
+    "version": "0.0.1",
+    "description": "login-credenziali description",
+    "type": "bundle"
+}
